@@ -1,0 +1,2 @@
+1- Search Google to post data in angular 
+2- Auth Gaurd in the angular routing.
